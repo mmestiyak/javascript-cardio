@@ -1,4 +1,4 @@
-// ## Array Cardio  from javascript30.com by wesbos.com Done by me without watching solution but some help from MDN and w3school
+// ## Array Cardio  from https://javascript30.com by https://wesbos.com Done by me without watching solution but some help from MDN and w3school
 
 // Some data we can work with
 

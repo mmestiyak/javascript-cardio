@@ -1,5 +1,5 @@
 /*
-  This is a CARDIO by wes bos of DOM. all the comments below are instructions and i'll write javaScript by following the instructions to interact & play with DOM 
+  This is a CARDIO by wes bos (https://wesbos.com) of DOM. all the comments below are instructions and i'll write javaScript by following the instructions to interact & play with DOM  without seeing his solution but help of MDN, w3school and other resources
 */
 
 // Make a div
